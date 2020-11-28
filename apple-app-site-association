@@ -1,0 +1,20 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": 
+        {
+            "4445Y664U5.com.vgs.very-spacy-food.Clip": {
+                "paths": [
+                    "/order-products/",
+                ]
+            },
+            "4445Y664U5.com.vgs.very-spacy-food" :
+          {
+              "paths" :
+              [
+                  "*"
+              ]
+          },
+        }
+    }
+}
